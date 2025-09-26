@@ -157,7 +157,7 @@ const Home = () => {
  <div className="card">
             <img className="card-image" alt="Fastfood" src="https://media.istockphoto.com/id/938158956/photo/burning-gas-burner.webp?a=1&b=1&s=612x612&w=0&k=20&c=wQRSX13GD8WILepxvnj-EHQwhHTTlqP-1Xlc8726nko="/>
             <div className="card-content">
-              <div className="card-title"><b>Grub Flame.</b></div>
+              <div className="card-title"><b>GrubFlame.</b></div>
               <div className="card-text">Out of gas? We've got your flame.</div>
             </div>
             <div className="card-actions">
